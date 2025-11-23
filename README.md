@@ -1,8 +1,6 @@
 # 🌈 Rainbow Neon Tic-Tac-Toe
 
-**Rainbow Gradient Neon Tic-Tac-Toe with Minimax AI** — Responsive, Animated, and Unbeatable!  
-
-Created by **Sayam-ud-Din**  
+**Rainbow Gradient Neon Tic-Tac-Toe with Minimax AI** — Responsive, Animated, and Unbeatable!   
 
 ![Tic-Tac-Toe Neon Screenshot](screenshot.png)  <!-- Optional: Add a screenshot -->
 
